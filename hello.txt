@@ -8,5 +8,5 @@ hello atguigu! hello git!
 hello atguigu! hello git!
 hello atguigu! hello git!
 hello atguigu! hello git!
-test today master!
+test today master
 hello atguigu! hello git!
